@@ -1,0 +1,22 @@
+company,type,frequency,category,amount,date,description
+Entreprise A,revenue,monthly,Ventes,5000,2024-01-01,Ventes mensuelles
+Entreprise A,revenue,monthly,Ventes,5200,2024-02-01,Ventes mensuelles
+Entreprise A,revenue,monthly,Ventes,4800,2024-03-01,Ventes mensuelles
+Entreprise A,expense,monthly,Salaires,3000,2024-01-01,Salaires mensuels
+Entreprise A,expense,monthly,Salaires,3000,2024-02-01,Salaires mensuels
+Entreprise A,expense,monthly,Salaires,3000,2024-03-01,Salaires mensuels
+Entreprise A,expense,monthly,Loyer,800,2024-01-01,Loyer bureau
+Entreprise A,expense,monthly,Loyer,800,2024-02-01,Loyer bureau
+Entreprise A,expense,monthly,Loyer,800,2024-03-01,Loyer bureau
+Entreprise A,expense,monthly,Électricité,200,2024-01-01,Facture électricité
+Entreprise A,expense,monthly,Électricité,180,2024-02-01,Facture électricité
+Entreprise A,expense,monthly,Électricité,220,2024-03-01,Facture électricité
+Entreprise B,revenue,one-time,Consulting,10000,2024-01-15,Projet consulting
+Entreprise B,revenue,one-time,Formation,5000,2024-02-20,Formation clients
+Entreprise B,expense,monthly,Salaires,4000,2024-01-01,Salaires mensuels
+Entreprise B,expense,monthly,Salaires,4000,2024-02-01,Salaires mensuels
+Entreprise B,expense,monthly,Salaires,4000,2024-03-01,Salaires mensuels
+Entreprise B,expense,one-time,Équipement,2000,2024-01-10,Achat ordinateurs
+Entreprise B,expense,monthly,Marketing,500,2024-01-01,Publicité
+Entreprise B,expense,monthly,Marketing,500,2024-02-01,Publicité
+Entreprise B,expense,monthly,Marketing,500,2024-03-01,Publicité
